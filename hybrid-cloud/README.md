@@ -129,11 +129,7 @@ Hybrid Cloud combines the advantages of on-premises infrastructure with Microsof
 - Requirement 2 - Identity synchronization with Microsoft Entra ID.
 - Requirement 3 - Reliable backup and disaster recovery.
 
-### Top 3 Hybrid Services
 
-1. Microsoft Entra ID – Identity synchronization and secure authentication.
-2. Azure VPN Gateway – Secure connection between on-premises and Azure.
-3. Azure Backup – Protects business data and enables disaster recovery.
   
 
 
